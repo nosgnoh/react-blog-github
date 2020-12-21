@@ -11,8 +11,8 @@ export const config = {
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
   enableOAuth: true,
-  OAuthClientID: 'ce256d21703f38eff4af',
-  OAuthSecret: '880db441c81d5ee368739ba468fbaba13d8eb346',
+  OAuthClientID: 'Iv1.2c9626d55ef38720',
+  OAuthSecret: '4717b1c5ffb8402e5d3ee5a8374c0cac5daaea7f',
 
   // Your Personal Blog Title
   title : "Nosgnoh" ,
